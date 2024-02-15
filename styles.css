@@ -1,0 +1,25 @@
+body {
+    background-color: #333333;
+    color: white;
+    font-family: sans-serif;
+    margin-left: 3vw;
+}
+
+h2 {
+    margin-bottom: 5vh;
+}
+
+.question {
+    margin-bottom: 5vh;
+}
+
+input {
+    margin-top: 3vh;
+}
+
+#recite {
+    margin-top: 8vh;
+    width: 50vw;
+    height: 50vh;
+    resize: none;
+}
