@@ -17,9 +17,21 @@ input {
     margin-top: 3vh;
 }
 
+#submitBtn {
+    margin-top: 3vh;
+}
+
 #recite {
     margin-top: 8vh;
     width: 50vw;
     height: 50vh;
     resize: none;
+}
+
+.correct {
+    color: lightgreen;
+}
+
+.incorrect {
+    color: red;
 }

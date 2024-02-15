@@ -1,7 +1,7 @@
 var qanda = `
 <frage>Rezitieren Sie das Kalkulationsschema.</frage>
 <antwort>
-Kostenträgerstückrechnung
+KostentrÃ¤gerstÃ¼ckrechnung
 Zuschlagskalkulation
 
 Kalkulationsschema
@@ -9,7 +9,7 @@ Kalkulationsschema
 Fertigungsmaterial (FM)
 + % Materialgemeinkosten (MGK)
 = Materialkosten (MK)
-Fertigungslöhne (FL)
+FertigungslÃ¶hne (FL)
 + % Fertigungsgemeinkosten (FGK)
 = Fertigungskosten (FK)
 = Herstellkosten (HK)
