@@ -1,0 +1,32 @@
+<allexams>
+    <exam>
+        <subject>Mathematics</subject>
+        <type>Test</type>
+        <date>27/02/2024</date>
+        <quiz>
+            <pair>
+                <question>In a deck of 52 playing cards, two cards are drawn without replacement. What is the probability that the second card drawn is a king, given that the first card drawn was a queen?</question>
+                <answer>7.84%</answer>
+            </pair>
+            <pair>
+                <question>A company produces light bulbs, and 5% of the bulbs are defective. If a bulb is randomly selected and found to be defective, what is the probability that it was produced by Machine A, given that Machine A produces 60% of the defective bulbs?</question>
+                <answer>60%</answer>
+            </pair>
+        </quiz>
+    </exam>
+    <exam>
+        <subject>Economics</subject>
+        <type>Exam</type>
+        <date>19/03/2024</date>
+        <quiz>
+            <pair>
+                <question>What defines a command economy?</question>
+                <answer>A command economy is characterized by central government control over production, distribution, and pricing of goods and services, with minimal input from market forces.</answer>
+            </pair>
+            <pair>
+                <question>What are the pros and cons of a command economy?</question>
+                <answer>Command economies enable rapid mobilization of resources for large-scale projects and prioritize social welfare. However, they often suffer from inefficiency, lack of innovation, and misallocation of resources due to centralized decision-making.</answer>
+            </pair>
+        </quiz>
+    </exam>
+</allexams>
